@@ -1,2 +1,0 @@
-# literate-telegram
-Public
